@@ -5,7 +5,7 @@ title: Some Stuff
 
 I can write down stuff. Like this
 
-```python
+```
 import numpy as np
 import matplotlib.pyplotg as plt
 
